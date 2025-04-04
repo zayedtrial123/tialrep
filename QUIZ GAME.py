@@ -17,4 +17,4 @@ if answer.lower()=="cpu":
 else:
     print('wrong')
     score-=1
-print('score is',score)
+print('score will be',score)
